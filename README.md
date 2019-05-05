@@ -6,4 +6,6 @@ Carly Kenkel, ckenkel@usc.edu
 
 We evaluated symbiont community composition in tagged colonies of Montipora digitata from Orpheus Island, Australia, over two successive annual spawning seasons, the second of which overlapped with the 2016 mass coral bleaching event on the Great Barrier Reef. We applied amplicon sequencing of the ITS2 locus to samples of four families (parent colonies and 10-12 eggs per family) to characterize their potential for symbiont shuffling and to determine if shuffled abundances were preserved in gametes.
 
+Annotations in the .R script describe input files, although all analyses can be re-created by starting with the raw .fastq files available for download at: 
+
 Please see bioRxiv preprint for full methods description.
